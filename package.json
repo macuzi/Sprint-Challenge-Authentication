@@ -19,19 +19,19 @@
   },
   "homepage": "https://github.com/LambdaSchool/Sprint-Challenge-Authentication#readme",
   "dependencies": {
-    "axios": "^0.19.0",
+    "axios": "^1.7.7",
     "bcryptjs": "^2.4.3",
     "cors": "^2.8.5",
-    "express": "^4.17.1",
-    "express-session": "^1.17.0",
-    "helmet": "^3.20.0",
-    "jest": "^24.9.0",
-    "jsonwebtoken": "^8.5.1",
-    "knex": "^0.19.2",
-    "sqlite3": "^4.1.0",
-    "supertest": "^4.0.2"
+    "express": "^4.19.2",
+    "express-session": "^1.18.0",
+    "helmet": "^7.1.0",
+    "jest": "^29.7.0",
+    "jsonwebtoken": "^9.0.2",
+    "knex": "^3.1.0",
+    "sqlite3": "^5.1.6",
+    "supertest": "^7.0.0"
   },
   "devDependencies": {
-    "nodemon": "^1.19.1"
+    "nodemon": "^3.1.4"
   }
 }
